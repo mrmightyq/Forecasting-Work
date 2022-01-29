@@ -23,3 +23,6 @@ https://www.analyticsvidhya.com/blog/2020/10/how-to-create-an-arima-model-for-ti
 https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/
 
 https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZ4UXNnRjZmWFFORElMMFYyUmZ4d2E0ZnBXd3xBQ3Jtc0ttZUhsRWN3WWFVZ1FjbXhQc3kwZnJTTDJBbVV4WERrT1JobEo5dHhpWmVTc09naEMyaldxRHBXSTB1Uzg3T3pLbHB5dHNQRGh0NElYampmdXZUR3BUT21URTFuN2M3NnZWcXJHSGxjX0JxUl82VHFidw&q=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1ccglokA_FicF3AirR-xllXauKZrzmngJoUptza1tPRE%2Fedit
+
