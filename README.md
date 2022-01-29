@@ -14,3 +14,4 @@ https://towardsdatascience.com/time-series-modeling-with-facebook-prophet-57f146
 
 https://towardsdatascience.com/machine-learning-part-19-time-series-and-autoregressive-integrated-moving-average-model-arima-c1005347b0d7
 
+https://predictivehacks.com/arima-model-in-python/
